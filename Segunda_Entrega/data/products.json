@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Bife de Chorizo",
+    "description": "Corte jugoso y tierno, ideal para la parrilla.",
+    "code": "BIFE001",
+    "price": 4500,
+    "stock": 20,
+    "category": "Cortes Vacunos",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Asado de Tira",
+    "description": "Corte clásico para asados, con hueso para más sabor.",
+    "code": "ASADO002",
+    "price": 3800,
+    "stock": 30,
+    "category": "Cortes Vacunos",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Vacio",
+    "description": "Corte magro con una capa de grasa que potencia su sabor.",
+    "code": "VACIO003",
+    "price": 4200,
+    "stock": 15,
+    "category": "Cortes Vacunos",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Entraña",
+    "description": "Corte delgado y sabroso, ideal para la parrilla o sartén.",
+    "code": "ENTRA004",
+    "price": 4600,
+    "stock": 10,
+    "category": "Cortes Vacunos",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Milanesa de Nalga",
+    "description": "Corte fino y tierno, ideal para milanesas caseras.",
+    "code": "MILAN005",
+    "price": 3400,
+    "stock": 25,
+    "category": "Cortes Vacunos",
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Pechuga de Pollo",
+    "description": "Corte magro y saludable, perfecto para plancha o horno.",
+    "code": "POLLO006",
+    "price": 2800,
+    "stock": 20,
+    "category": "Aves",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Muslo de Pollo",
+    "description": "Carne jugosa con hueso, ideal para hornear o guisar.",
+    "code": "POLLO007",
+    "price": 2500,
+    "stock": 18,
+    "category": "Aves",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Bondiola de Cerdo",
+    "description": "Corte con grasa infiltrada que le da un gran sabor.",
+    "code": "BOND008",
+    "price": 4000,
+    "stock": 12,
+    "category": "Cortes de Cerdo",
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Pata y Muslo",
+    "description": "Combo de pata y muslo, perfecto para el horno.",
+    "code": "PATAM009",
+    "price": 2600,
+    "stock": 22,
+    "category": "Aves",
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Chorizo Criollo",
+    "description": "Clásico chorizo de puro cerdo, ideal para asados.",
+    "code": "CHORI010",
+    "price": 3200,
+    "stock": 35,
+    "category": "Chacinados",
+    "status": true
+  },
+  {
+    "id": 11,
+    "title": "Chorizo Picante",
+    "description": "Chorizo con un toque picante, ideal para los amantes del sabor fuerte.",
+    "code": "CHORI011",
+    "price": 3300,
+    "stock": 20,
+    "category": "Chacinados",
+    "status": true
+  },
+  {
+    "id": 12,
+    "title": "Morcilla",
+    "description": "Morcilla clásica, suave y sabrosa.",
+    "code": "MORC012",
+    "price": 600,
+    "stock": 8,
+    "category": "Chacinados",
+    "status": true
+  },
+  {
+    "id": 13,
+    "title": "Matambre de Cerdo",
+    "description": "Corte delgado y tierno, ideal para la parrilla.",
+    "code": "MATAM013",
+    "price": 3900,
+    "stock": 15,
+    "category": "Cortes de Cerdo",
+    "status": true
+  },
+  {
+    "id": 14,
+    "title": "Costillas de Cerdo",
+    "description": "Costillas jugosas con un gran sabor, perfectas para barbacoa.",
+    "code": "COSTI014",
+    "price": 4100,
+    "stock": 18,
+    "category": "Cortes de Cerdo",
+    "status": true
+  },
+  {
+    "id": 17,
+    "title": "Carnecita",
+    "price": 500
+  },
+  {
+    "id": 18,
+    "title": "aa",
+    "price": -10
+  }
+]

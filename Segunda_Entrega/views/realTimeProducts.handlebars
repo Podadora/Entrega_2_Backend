@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script defer src="/js/realtime.js"></script>
+</head>
+<body>
+    <h1>{{title}}</h1>
+
+    <ul id="product-list">
+        <!-- Aquí se llenarán los productos con WebSockets -->
+    </ul>
+
+    <h2>Agregar Producto</h2>
+    <form id="product-form">
+        <input type="text" id="title" placeholder="Nombre del producto" required>
+        <input type="number" id="price" placeholder="Precio" required>
+        <button type="submit">Agregar</button>
+    </form>
+
+    <h2>Eliminar Producto</h2>
+    <form id="delete-form">
+        <input type="number" id="delete-id" placeholder="ID del producto" required>
+        <button type="submit">Eliminar</button>
+    </form>
+</body>
+</html>

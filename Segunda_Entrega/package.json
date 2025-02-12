@@ -1,0 +1,26 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Primera Entrega Backend I",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Podadora/Entrega_1_Backend.git"
+  },
+  "author": "Matias Omar Garcia Primavera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Podadora/Entrega_1_Backend/issues"
+  },
+  "homepage": "https://github.com/Podadora/Entrega_1_Backend#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "socket.io": "^4.8.1"
+  }
+}
