@@ -138,15 +138,5 @@
     "stock": 18,
     "category": "Cortes de Cerdo",
     "status": true
-  },
-  {
-    "id": 17,
-    "title": "Carnecita",
-    "price": 500
-  },
-  {
-    "id": 18,
-    "title": "aa",
-    "price": -10
   }
 ]
